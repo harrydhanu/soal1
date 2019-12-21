@@ -5,4 +5,9 @@ dibuat dengan html dan css
 
 
 jujur saya tidak terlalu paham dengan dengan dunia coding makanya saya memilih bootcamp dumbways untuk belajar mulai dari dasar 
-disana agar saya bisa mnegetahui lebih dalam dalam bahasa coding  
+disana agar saya bisa mnegetahui lebih dalam dalam bahasa coding.
+
+maaf hanya bisa mengerjakan soal ini
+karena yg lain saya tidak paham
+
+Terima kasih.
