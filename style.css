@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+fieldset {
+    width: 100px;
+    background-origin: border-box;
+    background-color: rgb(0, 204, 255);
+}
+
+.tombol_submit {
+    border: none;
+    background-color: rgb(88, 255, 124);
+    color: white;
+    font-weight: bold;
+    height: 32px;
+    width: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+label {
+    text
+}
